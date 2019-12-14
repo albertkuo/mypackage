@@ -2,4 +2,3 @@
 
 export(my_function)
 import(dplyr)
-importFrom(MASS,lda)

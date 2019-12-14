@@ -6,7 +6,6 @@
 #' whether to print the statement (default is \code{TRUE})
 #'
 #' @import dplyr
-#' @importFrom MASS lda
 #'
 #' @export
 #'
