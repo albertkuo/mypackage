@@ -4,10 +4,7 @@ Version: 0.1.0
 Date: 2019-12-11
 Authors@R: c(person(given = "Albert",
                     family = "Kuo",
-                    role = c("aut", "cre"), # "aut" means author (someone who has 
-                                            # made a significant contribution) 
-                                            # "cre" means maintainer (who to 
-                                            # contact if there are problems)
+                    role = c("aut", "cre"), 
                     email = "albertkuo@jhu.edu",
                     comment = c("ORCID" = "0000-0001-5155-0748")))
 Depends: R (>= 3.6.0)
