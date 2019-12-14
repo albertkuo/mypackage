@@ -1,6 +1,6 @@
 #' A very brief description of what your function does
 #'
-#' A detailed description of what the function does
+#' A detailed description of what the function does.
 #'
 #' @param print_statement a logical value indicating
 #' whether to print the statement (default is \code{TRUE})

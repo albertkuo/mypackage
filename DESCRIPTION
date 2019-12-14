@@ -1,6 +1,6 @@
 Package: mypackage
-Title: What the Package Does # One line only, Title Case, and no period
-Version: 0.1.0 # follow Jeff Leek's versioning convention
+Title: What the Package Does
+Version: 0.1.0
 Date: 2019-12-11
 Authors@R: c(person(given = "Albert",
                     family = "Kuo",
@@ -11,9 +11,10 @@ Authors@R: c(person(given = "Albert",
                     email = "albertkuo@jhu.edu",
                     comment = c("ORCID" = "0000-0001-5155-0748")))
 Depends: R (>= 3.6.0)
-Imports: dplyr # packages you need for the package, aka dependencies
-Suggests: knitr # optional packages that aren't strictly needed
-Description: What the package does, with more detail. # one paragraph
+Imports: dplyr
+Suggests: knitr
+Description: What the package does, with more detail.
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
+RoxygenNote: 7.0.2

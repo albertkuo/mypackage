@@ -15,7 +15,7 @@ whether to print the statement (default is \code{TRUE})}
 announcing itself if the parameter is \code{TRUE}
 }
 \description{
-A detailed description of what the function does
+A detailed description of what the function does.
 }
 \examples{
 R code examples
